@@ -4,4 +4,5 @@ El curso de git y github nos sirve para guardad cambios en la web
 y actualizaciones de un proyecto
 hoy aprendi a subir mi primer commit a github y pude apreder cosas nuevas
 commit master 1 
+commit master 2 
 aprendi cosas basicas de html y css
